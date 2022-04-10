@@ -1,0 +1,9 @@
+body {margin:auto; background-color:#C3D9FF; font:12px Verdana; color:#000;}
+
+#fejlec {width:auto;  padding:10px; height:100px; background-color:#6192DF; font:30px Arial, Helvetica, sans-serif;}
+#bal {width:20%; padding:10px; float:left; background-color:#8BABDF;}
+#kozep {width:auto; padding:10px; float:left; background-color:#FFFFFF;}
+#jobb {width:20%; padding:10px; float:right; background-color:#8BABDF;}
+#lablec {width:auto; padding:10px; height:30px; background-color:#6192DF; clear:both;}
+
+.responsive {width: 100%; height: auto;}
